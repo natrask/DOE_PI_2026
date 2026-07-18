@@ -11,7 +11,10 @@ Operators, Graphs and Spikes*.
 - **Poster:** [`Kinch/Trask`](ASCR_poster2026_natv2.pptx) —
   *Foundational architectures for neural physics: modular physics, uncertainty
   quantification, and generalization over complex geometry* (48" × 48").
-
+- **Poster:** [`USC Panda group`](DOE_PI_2026/DOE_PI_2026/USC_Priya.pdf) —
+  *S²MoE: Spiking-based Mixture of Expert for Scientific Machine Learning*,
+  D. Sun, D. Lee, B. K. Rhee, R. Wan, Sanjith T., Q. Zhang, G. E. Karniadakis,
+  P. Stinis, and P. Panda.
 ## References cited on the poster
 
 1. B. Kinch, B. Shaffer, E. Armstrong, M. Meehan, J. Hewson, and N. Trask,
