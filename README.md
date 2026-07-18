@@ -18,7 +18,7 @@ N. Trask and G. Karniadakis.
    A Co-Design Story*.
    [`ascr_pi_meeting_poster_bht_final_SAND202623753C.pdf`](DOE_PI_2026/DOE_PI_2026/ascr_pi_meeting_poster_bht_final_SAND202623753C.pdf)
 3. **Brooks Kinch** — *Foundational architectures for neural physics: modular physics,
-   uncertainty quantification, and generalization over complex geometry* (48" × 48").
+   uncertainty quantification, and generalization over complex geometry*.
    [`ASCR_poster2026_natv2.pptx`](ASCR_poster2026_natv2.pptx)
 4. **Houman Owhadi** — *Stochastic Graph Discovery for Sparse, Interpretable, and
    Uncertainty-Aware Digital Twins*.
